@@ -1,0 +1,87 @@
+* {
+    font-size: 12px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+normal_text {
+    font-size: 12px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+h1 {
+    font-size: 28px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+h4 {
+    font-size: 18px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+h5 {
+    font-size: 16px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+h6 {
+    font-size: 14px;
+    font-family: Meiryo, 'Segoe UI';
+}
+
+body {
+    margin: 0px;
+}
+
+.margindiv {
+    /*margin:4px 7px 2px 4px;*/
+    margin: 8px 8px 8px 8px;
+}
+
+iframe {
+    margin: 0px;
+    border: 2px;
+}
+
+.margintb {
+    line-height: 32px;
+}
+
+button {
+    transition: 0.125s all;
+    font-family: 'Segoe UI', Tahoma, Verdana, 'Meiryo', sans-serif;
+    display: inline-block;
+    font-size: 14px;
+    margin:0px;
+    border-width: 0px;
+    border-radius: 2px;
+    background-color: #F0F0F0; /**/
+    background: linear-gradient(180deg, #f0f0f0, #e0e0e0); /**/
+    color: #000;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+    button:hover {
+        transition: 0.125s all;
+        /*background-color: #c0c0c0; /**/
+        /*transform: scale(87.5%);*/
+        background: linear-gradient(180deg, #f0f0f0, #e8e8e8); /**/
+    }
+
+    button:active {
+        transition: 0.125s all;
+        /*background-color: #c0c0c0; /**/
+        /*transform: scale(87.5%);*/
+        background: linear-gradient(0deg, #a0a0a0, #a0a0a0); /**/
+    }
+

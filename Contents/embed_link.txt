@@ -1,0 +1,1 @@
+<iframe src="https://amatarou-sun.github/AmaPage2/embed.html" style="width: 250px; height: 150px;"></iframe>
